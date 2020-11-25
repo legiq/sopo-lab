@@ -1,0 +1,2 @@
+[clone]
+clone-1 ansible_host=192.168.56.203 ansible_user=root

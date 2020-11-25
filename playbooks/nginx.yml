@@ -1,0 +1,5 @@
+- hosts: clone
+  vars:
+    page_name: SOPO    
+  roles:
+    - nginx-role

@@ -1,0 +1,6 @@
+---
+- name: Install Nginx Web Servert:
+    name=nginx
+    state=latest
+  notify:
+    - nginx systemd
